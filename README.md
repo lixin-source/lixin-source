@@ -4,7 +4,7 @@
 
 🔭 I’m a Break Through AI fellow and a former Developer Student Club Lead at BMCC!
 
-🌱 I have participated in a Web Development program hosted by Kode With Klossy and SEEDs from Dandylionn.
+🌱 Technology & programming are extremely interesting to me, and I specifically like web development & data science.
 
 💬 I believe that technology drives change.
 
