@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Xin Yi (she/her/hers).
 
-⚡ I am a junior at Brooklyn College studying Computer Science.
+⚡ I am a junior at undergraduate studying Computer Science.
 
 🔭 I’m a Break Through AI fellow and a former Developer Student Club Lead at BMCC!
 
